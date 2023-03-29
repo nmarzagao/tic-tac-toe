@@ -1,8 +1,6 @@
 # Tic Tac Toe
 
-- A student project for a basic cli-based Tic-Tac-Toe game written in C.
-
-- **Source**: This was made following a youtube video here is the <a href='www.google.com'>link</a>
+- A student project for a comandline tic tac toe game.
 
 To run this project you will have to have **gcc**, **make** and **git** installed:
 ```bash
