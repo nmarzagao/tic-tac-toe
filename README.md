@@ -1,4 +1,4 @@
-# Tic-Tac-Toe-in-C
+# Tic Tac Toe
 
 - A student project for a basic cli-based Tic-Tac-Toe game written in C.
 
