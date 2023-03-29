@@ -1,6 +1,6 @@
 # Tic Tac Toe
 
-- A student project for a comandline tic tac toe game.
+A student project for a comandline tic tac toe game.
 
 To run this project you will have to have **gcc**, **make** and **git** installed:
 ```bash
