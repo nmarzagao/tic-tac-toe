@@ -27,7 +27,5 @@ This project is very simple so I'll be quick.
 - All source files are in the ```src``` directory.
 - When the project compiles it's bineries are sent to the ```bin``` directory.
 - The project is divided in to 2 parts:
-    - ```gamelib.c``` and ```.h```: The files contaning all of the games funtions.
-    - ```main.c```: The file contaning the main funtion call.
-
-- Note: I plan on rewriting a more complete version of this game, for pactice.
+    - ```gamelib.c``` and ```.h```: The files contaning all of the game's functions.
+    - ```main.c```: The file contaning the main function.
