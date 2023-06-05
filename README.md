@@ -2,7 +2,7 @@
 
 A student project for a comandline tic tac toe game.
 
-Code written following this [tutorial].(https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwig9Z-jx6z_AhWcRLgEHRKkAk0QtwJ6BAgIEAI&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_889aB2D1KI&usg=AOvVaw0r7z4nO-Ysp6_RKiLfamhX)
+Code written following this [tutorial](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwig9Z-jx6z_AhWcRLgEHRKkAk0QtwJ6BAgIEAI&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_889aB2D1KI&usg=AOvVaw0r7z4nO-Ysp6_RKiLfamhX).
 
 ## Build Process
 To build this project I used gcc to compile it.
