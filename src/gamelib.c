@@ -1,8 +1,9 @@
+#include "gamelib.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
 #include <time.h>
-#include "tic_tac_toe.h"
+
 
 char board[3][3];
 
