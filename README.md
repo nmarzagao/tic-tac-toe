@@ -17,7 +17,7 @@ make
 ```
 
 If you want to use a different compiler change the ```CC``` variable in the make file.
-for exemple:
+For exemple:
 ```make
 CC = clang
 ```
